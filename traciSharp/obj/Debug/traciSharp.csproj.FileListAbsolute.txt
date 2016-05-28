@@ -1,0 +1,5 @@
+C:\Users\Biurrun\Tesis\TraCI#\traciSharp\traciSharp\bin\Debug\traciSharp.dll
+C:\Users\Biurrun\Tesis\TraCI#\traciSharp\traciSharp\bin\Debug\traciSharp.pdb
+C:\Users\Biurrun\Tesis\TraCI#\traciSharp\traciSharp\obj\Debug\traciSharp.csprojResolveAssemblyReference.cache
+C:\Users\Biurrun\Tesis\TraCI#\traciSharp\traciSharp\obj\Debug\traciSharp.dll
+C:\Users\Biurrun\Tesis\TraCI#\traciSharp\traciSharp\obj\Debug\traciSharp.pdb
