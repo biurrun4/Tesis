@@ -6,3 +6,6 @@ C:\Users\Biurrun\Tesis\TraCI#\TrialTraci\TrialTraci\bin\Debug\traciSharp.dll
 C:\Users\Biurrun\Tesis\TraCI#\TrialTraci\TrialTraci\bin\Debug\traciSharp.pdb
 C:\Users\Biurrun\Tesis\TraCI#\TrialTraci\TrialTraci\obj\Debug\TrialTraci.exe
 C:\Users\Biurrun\Tesis\TraCI#\TrialTraci\TrialTraci\obj\Debug\TrialTraci.pdb
+C:\Users\TheCuackDuck\Documents\GitHub\Tesis\TrialTraci\TrialTraci\bin\Debug\TrialTraci.exe.config
+C:\Users\TheCuackDuck\Documents\GitHub\Tesis\TrialTraci\TrialTraci\obj\Debug\TrialTraci.exe
+C:\Users\TheCuackDuck\Documents\GitHub\Tesis\TrialTraci\TrialTraci\obj\Debug\TrialTraci.pdb
